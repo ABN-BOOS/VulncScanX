@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Documents",
+			"path": "."
+		},
+		{
+			"name": "Desktop",
+			"path": "../Desktop"
+		},
+		{
+			"path": "../.vscode"
+		}
+	],
+	"settings": {}
+}
