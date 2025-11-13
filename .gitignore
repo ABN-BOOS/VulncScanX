@@ -1,0 +1,21 @@
+# Results
+Result/
+results/
+*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
