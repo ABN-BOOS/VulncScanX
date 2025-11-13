@@ -1,2 +1,0 @@
-# VulncScanX
-Advanced Security Scanner
