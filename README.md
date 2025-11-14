@@ -307,5 +307,4 @@ What most interests me about the field of cybersecurity?
 Who is the audience for my professional statement (e.g., cybersecurity recruiters, specific organizations, government employers, etc.)?
 In what ways can my strengths, values, and interest in cybersecurity support the security goals of various organizations?
 
-Note: This is just a draft. You should continue to revise and refine your professional statement, throughout the program, until you feel that it’s ready to share with potential employers.
 
